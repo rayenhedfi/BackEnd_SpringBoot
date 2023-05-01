@@ -1,5 +1,4 @@
 package tn.actia.pfe.Pfe_App.AppUser;
-
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
